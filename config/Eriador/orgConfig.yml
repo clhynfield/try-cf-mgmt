@@ -7,7 +7,7 @@ org-billingmanager:
   saml_users: []
 org-manager:
   ldap_users: []
-  users: []
+  users: ["Frodo"]
   ldap_group: ""
   ldap_groups: []
   saml_users: []
