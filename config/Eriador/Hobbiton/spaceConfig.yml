@@ -1,0 +1,33 @@
+org: Eriador
+space: Hobbiton
+space-developer:
+  ldap_users: []
+  users: [Samwise]
+  ldap_group: ""
+  ldap_groups: []
+  saml_users: []
+space-manager:
+  ldap_users: []
+  users: [Frodo]
+  ldap_group: ""
+  ldap_groups: []
+  saml_users: []
+space-auditor:
+  ldap_users: []
+  users: []
+  ldap_group: ""
+  ldap_groups: []
+  saml_users: []
+allow-ssh: false
+enable-space-quota: false
+memory-limit: 10240
+instance-memory-limit: -1
+total-routes: 1000
+total-services: -1
+paid-service-plans-allowed: false
+enable-security-group: false
+enable-remove-users: true
+total_private_domains: 0
+total_reserved_route_ports: 0
+total_service_keys: 0
+app_instance_limit: 0
