@@ -2,11 +2,17 @@ space-developer:
   ldap_users: []
   users: []
   ldap_group: ""
+  ldap_groups: []
+  saml_users: []
 space-manager:
   ldap_users: []
   users: []
   ldap_group: ""
+  ldap_groups: []
+  saml_users: []
 space-auditor:
   ldap_users: []
   users: []
   ldap_group: ""
+  ldap_groups: []
+  saml_users: []
