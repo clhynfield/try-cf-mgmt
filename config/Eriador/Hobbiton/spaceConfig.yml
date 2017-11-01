@@ -8,7 +8,7 @@ space-developer:
   saml_users: []
 space-manager:
   ldap_users: []
-  users: []
+  users: [Frodo]
   ldap_group: ""
   ldap_groups: []
   saml_users: []
