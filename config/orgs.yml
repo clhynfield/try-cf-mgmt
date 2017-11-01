@@ -1,4 +1,5 @@
-orgs: []
+orgs:
+- Eriador
 enable-delete-orgs: true
 protected_orgs:
 - system
