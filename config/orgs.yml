@@ -1,1 +1,6 @@
 orgs: []
+enable-delete-orgs: true
+protected_orgs:
+- system
+- p-spring-cloud-services
+- splunk-nozzle-org
