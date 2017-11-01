@@ -1,3 +1,4 @@
 org: Eriador
-spaces: []
+spaces:
+- Hobbiton
 enable-delete-spaces: true
