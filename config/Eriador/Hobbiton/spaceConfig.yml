@@ -2,7 +2,7 @@ org: Eriador
 space: Hobbiton
 space-developer:
   ldap_users: []
-  users: []
+  users: [Samwise]
   ldap_group: ""
   ldap_groups: []
   saml_users: []
